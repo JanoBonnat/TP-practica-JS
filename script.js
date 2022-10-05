@@ -36,7 +36,8 @@ const resultado3 = calculos(9,11,15);
 //#region console
 
 console.log(resultado);
-console.log(resultado2)
+console.log(resultado2);
+console.log(resultado3);
 
 //#endregion
 
