@@ -19,3 +19,10 @@ function suma (num1, num2){
 const resultado = (11, 89);
 
 //#endregion
+
+//#region console
+
+console.log(resultado);
+
+//#endregion
+
