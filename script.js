@@ -22,6 +22,7 @@ function resta(num1, num2){
 //#region llamar funcion
 
 const resultado = (11, 89);
+const resultado2 = resta(9, 1);
 
 //#endregion
 
