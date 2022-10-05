@@ -29,6 +29,7 @@ function calculos(num1,num2,num3){
 
 const resultado = (11, 89);
 const resultado2 = resta(9, 1);
+const resultado3 = calculos(9,11,15);
 
 //#endregion
 
