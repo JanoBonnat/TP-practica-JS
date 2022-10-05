@@ -29,6 +29,7 @@ const resultado2 = resta(9, 1);
 //#region console
 
 console.log(resultado);
+console.log(resultado2)
 
 //#endregion
 
