@@ -12,6 +12,11 @@ function suma (num1, num2){
     return r;
 }
 
+function resta(num1, num2){
+    const r2 = Math.sqrt(num1) - num2;
+    return r2;
+}
+
 //#endregion
 
 //#region llamar funcion
