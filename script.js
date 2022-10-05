@@ -3,6 +3,7 @@
 let num1;
 var num2;
 let num3;
+const num4 = [1,2,3,4,7,5,6];
 
 //#endregion
 
