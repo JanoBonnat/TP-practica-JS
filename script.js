@@ -26,6 +26,12 @@ function calculos(num1,num2,num3){
 
 //#endregion
 
+//#region for de arreglos
+
+for(i=0;i<num4.length;i++){
+    console.log(num4[i]);
+}
+
 //#region llamar funcion
 
 const resultado = (11, 89);
