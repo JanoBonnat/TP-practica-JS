@@ -18,6 +18,11 @@ function resta(num1, num2){
     return r2;
 }
 
+function calculos(num1,num2,num3){
+    const r3 = (Math.pow(num1,3)*num2)/num3;
+    return r3;
+}  
+
 //#endregion
 
 //#region llamar funcion
